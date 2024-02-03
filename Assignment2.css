@@ -1,0 +1,13 @@
+.container{
+    box-sizing: border-box;
+    display: inline-block;
+    border: 2px solid black;
+}
+
+.navbar{
+    display: inline-flex;
+}
+
+.menu{
+    display: inline;
+}
