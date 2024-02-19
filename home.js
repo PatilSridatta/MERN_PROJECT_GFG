@@ -1,5 +1,6 @@
-var name1;
+var a = 110;
 
-name1 = "GFG";
-
-console.log(typeof name1);
+{
+    console.log(a);
+    let a = 10;
+}
